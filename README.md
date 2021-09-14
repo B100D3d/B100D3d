@@ -11,8 +11,8 @@ ____
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=B100D3d&theme=tokyonight_duo&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B100D3d&theme=tokyonight_duo&hide_border=true" />
  </a>
- <a href="https://github-readme-stats.vercel.app/api?username=B100D3d&show_icons=true&theme=tokyonight&hide=commits&hide_border=true&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=B100D3d&show_icons=true&theme=tokyonight&hide=commits&hide_border=true&hide_title=true" />
+ <a href="https://github-readme-stats.vercel.app/api?username=B100D3d&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=B100D3d&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
  </a>
  <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=B100D3d&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=10">
